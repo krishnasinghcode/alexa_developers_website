@@ -7,8 +7,10 @@ This is the official website for **Alexa Developers SRM**, designed to serve as 
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Features](#features)
-4. [Tech Stack](#tech-stack)
-5. [Project Structure](#project-structure)
+4. [Images](#images)
+5. [Tech Stack](#tech-stack)
+6. [Project Structure](#project-structure)
+
 
 ## Installation
 To run this project locally, follow these steps:
@@ -40,6 +42,11 @@ Once the project is set up locally, open `http://localhost:3000` in your browser
 - Event section with expandable lists for more details
 - Social media links with interactive hover effects
 - User-friendly customization options for colors and fonts
+
+## Images 
+![Screenshot 2024-12-30 184055](https://github.com/user-attachments/assets/4c88a161-a058-49a8-b2be-4554628f8577)
+![Screenshot 2024-12-30 184119](https://github.com/user-attachments/assets/73c2411e-731c-4a07-bbb1-7370ce14cad6)
+![Screenshot 2024-12-30 184131](https://github.com/user-attachments/assets/a5cd1fa0-28ff-4bae-aa97-7ecf7aaeebf7)
 
 ## Tech Stack
 - **Vite** - Build tool for faster development.
