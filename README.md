@@ -1,7 +1,7 @@
 # Alexa Developers SRM Website
 
 ## Overview
-This is the official website for **Alexa Developers SRM**, designed to serve as a hub for developers interested in Alexa technologies. Built using Vite, React, and Tailwind CSS, it features sections like Events, Domains, About Us, and Social Media links. The website is fully responsive and deployed using Netlify, ensuring a seamless experience across devices. [**Check it out here!**]([https://your-netlify-link.netlify.app](https://alexa-developers-srm.netlify.app/))
+This is the official website for **Alexa Developers SRM**, designed to serve as a hub for developers interested in Alexa technologies. Built using Vite, React, and Tailwind CSS, it features sections like Events, Domains, About Us, and Social Media links. The website is fully responsive and deployed using Netlify, ensuring a seamless experience across devices. [**Check it out here!**]([https://your-netlify-link.netlify.app](https://alexa-developers-srm.netlify.app/)
 
 ## Table of Contents
 1. [Installation](#installation)
